@@ -1,3 +1,2 @@
-## This is a simple list of good and "wrong" practices that we've seen in
-some initial code, aiming to avoid confusion and illustrate how
-Tailwind and DaisyUI should be used.
+# Sample Code
+This repository is a collection of possible improvements and standardisations when using React components.
